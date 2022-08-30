@@ -107,8 +107,6 @@ def main():
                         # "URL": search_detail_url,
                     }
                 )
-            break
-        break
     wb=openpyxl.Workbook()
     ws=wb.active
     # シート名の設定
